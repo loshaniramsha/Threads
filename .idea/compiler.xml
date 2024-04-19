@@ -8,15 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Extend-Thraed-class" />
         <module name="Priority" />
+        <module name="Inter-Threads-Commiunication" />
         <module name="Runnable" />
         <module name="Synchronized-keyword" />
         <module name="Lambda-Expression" />
+        <module name="Inter_Thread-Commiunication" />
         <module name="joing-and-IsAlive" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Extend-Thread-class" target="1.5" />
       <module name="Extend-Thread-Class-New" target="1.5" />
+      <module name="Inter_Thread_Commiunication" target="1.5" />
       <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
   </component>

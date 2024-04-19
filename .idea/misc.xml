@@ -14,17 +14,20 @@
         <option value="$PROJECT_DIR$/Synchronized-keyword/pom.xml" />
         <option value="$PROJECT_DIR$/Extend-Thraed-class/pom.xml" />
         <option value="$PROJECT_DIR$/Inter-Threads-Commiunication/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter_Thread_Commiunication/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter_Thread-Commiunication/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Extend-Thread-Class-New/pom.xml" />
         <option value="$PROJECT_DIR$/Extend-Thread-class/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter_Thread_Commiunication/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
