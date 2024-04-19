@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Threads-Module.iml" filepath="$PROJECT_DIR$/Threads-Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inter-Threads02-commiunication/inter-Threads02-commiunication.iml" filepath="$PROJECT_DIR$/inter-Threads02-commiunication/inter-Threads02-commiunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/ptest/ptest.iml" filepath="$PROJECT_DIR$/ptest/ptest.iml" />
     </modules>
   </component>

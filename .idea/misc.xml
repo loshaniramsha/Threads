@@ -22,6 +22,7 @@
       <set>
         <option value="$PROJECT_DIR$/Extend-Thread-Class-New/pom.xml" />
         <option value="$PROJECT_DIR$/Extend-Thread-class/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter_Thread-Commiunication/pom.xml" />
         <option value="$PROJECT_DIR$/Inter_Thread_Commiunication/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
